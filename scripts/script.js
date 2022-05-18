@@ -12,16 +12,16 @@ new Vue({
         {
           name: "Ew",
           artist: "Joji - Nectar",
-          cover: "https://raw.githubusercontent.com/akshzyx/mini-player/master/img/nectar-joji.jpg",
-          source: "https://raw.githubusercontent.com/akshzyx/mini-player/master/mp3/Ew.mp3",
+          cover: "https://raw.githubusercontent.com/akshzyx/playerzyx/master/img/nectar-joji.jpg",
+          source: "https://raw.githubusercontent.com/akshzyx/playerzyx/master/mp3/Ew.mp3",
           url: "https://www.youtube.com/watch?v=UGB_Bsm5Unk",
           favorited: false
         },
         {
           name: "Everybody Knows",
           artist: "Leonard Cohen",
-          cover: "https://raw.githubusercontent.com/akshzyx/mini-player/master/img/nectar-joji.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/2.mp3",
+          cover: "https://raw.githubusercontent.com/akshzyx/playerzyx/master/img/nectar-joji.jpg",
+          source: "https://raw.githubusercontent.com/akshzyx/playerzyx/master/mp3/2.mp3",
           url: "https://www.youtube.com/watch?v=Lin-a2lTelg",
           favorited: true
         },
