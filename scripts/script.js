@@ -58,28 +58,28 @@ new Vue({
           favorited: false
         },
         {
-          name: "The Comeback Kid",
-          artist: "Lindi Ortega",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/7.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/7.mp3",
-          url: "https://www.youtube.com/watch?v=me6aoX0wCV8",
+          name: "Run",
+          artist: "Joji",
+          cover: "https://raw.githubusercontent.com/akshzyx/playerzyx/master/img/nectar-joji.jpg",
+          source: "https://raw.githubusercontent.com/akshzyx/playerzyx/master/mp3/Run.mp3",
+          url: "https://www.youtube.com/watch?v=K09_5IsgGe8",
           favorited: true
         },
         {
-          name: "Overdose",
-          artist: "Grandson",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/8.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/8.mp3",
-          url: "https://www.youtube.com/watch?v=00-Rl3Jlx-o",
-          favorited: false
+          name: "Sanctuary",
+          artist: "Joji",
+          cover: "https://raw.githubusercontent.com/akshzyx/playerzyx/master/img/nectar-joji.jpg",
+          source: "https://raw.githubusercontent.com/akshzyx/playerzyx/master/mp3/Sanctuary.mp3",
+          url: "https://www.youtube.com/watch?v=YWN81V7ojOE",
+          favorited: true
         },
         {
-          name: "Rag'n'Bone Man",
-          artist: "Human",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/9.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/9.mp3",
-          url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
-          favorited: false
+          name: "High Hopes (feat. Omar Apollo)",
+          artist: "Joji, Omar Apollo",
+          cover: "https://raw.githubusercontent.com/akshzyx/playerzyx/master/img/nectar-joji.jpg",
+          source: "https://raw.githubusercontent.com/akshzyx/playerzyx/master/mp3/High Hopes.mp3",
+          url: "https://www.youtube.com/watch?v=xPS6Tuh880k",
+          favorited: true
         }
       ],
       currentTrack: null,
