@@ -11,3 +11,5 @@ Nectar is the second studio album by Japanese singer-songwriter Joji, released o
 **Label**: 88rising; 12Tone
 
 **Length**: 53:05
+
+Thanks to **[muhammed](https://github.com/muhammed/mini-player)**
