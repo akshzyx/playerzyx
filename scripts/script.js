@@ -80,6 +80,78 @@ new Vue({
           source: "https://raw.githubusercontent.com/akshzyx/playerzyx/master/mp3/High Hopes.mp3",
           url: "https://www.youtube.com/watch?v=xPS6Tuh880k",
           favorited: true
+        },
+        {
+          name: "NITROUS",
+          artist: "Joji",
+          cover: "https://raw.githubusercontent.com/akshzyx/playerzyx/master/img/nectar-joji.jpg",
+          source: "https://raw.githubusercontent.com/akshzyx/playerzyx/master/mp3/NITROUS.mp3",
+          url: "https://www.youtube.com/watch?v=dHq_AS62ioY",
+          favorited: true
+        },
+        {
+          name: "Pretty Boy (feat. Lil Yachty)",
+          artist: "Joji, Lil Yachty",
+          cover: "https://raw.githubusercontent.com/akshzyx/playerzyx/master/img/nectar-joji.jpg",
+          source: "https://raw.githubusercontent.com/akshzyx/playerzyx/master/mp3/Pretty Boy.mp3",
+          url: "https://www.youtube.com/watch?v=Qn5IpWXWub0",
+          favorited: true
+        },
+        {
+          name: "Normal People (feat. rei brown)",
+          artist: "Joji, rei brown",
+          cover: "https://raw.githubusercontent.com/akshzyx/playerzyx/master/img/nectar-joji.jpg",
+          source: "https://raw.githubusercontent.com/akshzyx/playerzyx/master/mp3/Pretty Boy.mp3",
+          url: "https://www.youtube.com/watch?v=Qn5IpWXWub0",
+          favorited: true
+        },
+        {
+          name: "Afterthought",
+          artist: "Joji",
+          cover: "https://raw.githubusercontent.com/akshzyx/playerzyx/master/img/nectar-joji.jpg",
+          source: "https://raw.githubusercontent.com/akshzyx/playerzyx/master/mp3/Afterthought.mp3",
+          url: "https://www.youtube.com/watch?v=QH9vvwPPBS8",
+          favorited: true
+        },
+        {
+          name: "Mr. Hollywood",
+          artist: "Joji",
+          cover: "https://raw.githubusercontent.com/akshzyx/playerzyx/master/img/nectar-joji.jpg",
+          source: "https://raw.githubusercontent.com/akshzyx/playerzyx/master/mp3/Mr. Hollywood.mp3",
+          url: "https://www.youtube.com/watch?v=08xzc6pZ0m8",
+          favorited: true
+        },
+        {
+          name: "777",
+          artist: "Joji",
+          cover: "https://raw.githubusercontent.com/akshzyx/playerzyx/master/img/nectar-joji.jpg",
+          source: "https://raw.githubusercontent.com/akshzyx/playerzyx/master/mp3/777.mp3",
+          url: "https://www.youtube.com/watch?v=7Gvh6pIHa_g",
+          favorited: true
+        },
+        {
+          name: "Reanimator (feat. Yves Tumor)",
+          artist: "Joji, Yves Tumor",
+          cover: "https://raw.githubusercontent.com/akshzyx/playerzyx/master/img/nectar-joji.jpg",
+          source: "https://raw.githubusercontent.com/akshzyx/playerzyx/master/mp3/Reanimator.mp3",
+          url: "https://www.youtube.com/watch?v=coZdfBrHwxQ",
+          favorited: true
+        },
+        {
+          name: "Like You Do",
+          artist: "Joji",
+          cover: "https://raw.githubusercontent.com/akshzyx/playerzyx/master/img/nectar-joji.jpg",
+          source: "https://raw.githubusercontent.com/akshzyx/playerzyx/master/mp3/Like You Do.mp3",
+          url: "https://www.youtube.com/watch?v=Bv-1BnoB75k",
+          favorited: true
+        },
+        {
+          name: "Your Man",
+          artist: "Joji",
+          cover: "https://raw.githubusercontent.com/akshzyx/playerzyx/master/img/nectar-joji.jpg",
+          source: "https://raw.githubusercontent.com/akshzyx/playerzyx/master/mp3/Your Man.mp3",
+          url: "https://www.youtube.com/watch?v=RrtkU7i0qD8",
+          favorited: true
         }
       ],
       currentTrack: null,
