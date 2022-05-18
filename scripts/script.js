@@ -11,26 +11,26 @@ new Vue({
       tracks: [
         {
           name: "Ew",
-          artist: "Joji - Nectar",
+          artist: "Joji",
           cover: "https://raw.githubusercontent.com/akshzyx/playerzyx/master/img/nectar-joji.jpg",
           source: "https://raw.githubusercontent.com/akshzyx/playerzyx/master/mp3/Ew.mp3",
           url: "https://www.youtube.com/watch?v=UGB_Bsm5Unk",
           favorited: false
         },
         {
-          name: "Everybody Knows",
-          artist: "Leonard Cohen",
+          name: "MODUS",
+          artist: "Joji",
           cover: "https://raw.githubusercontent.com/akshzyx/playerzyx/master/img/nectar-joji.jpg",
-          source: "https://raw.githubusercontent.com/akshzyx/playerzyx/master/mp3/2.mp3",
-          url: "https://www.youtube.com/watch?v=Lin-a2lTelg",
+          source: "https://raw.githubusercontent.com/akshzyx/playerzyx/master/mp3/MODUS.mp3",
+          url: "https://www.youtube.com/watch?v=2Uxq-kIAMBM",
           favorited: true
         },
         {
-          name: "Extreme Ways",
-          artist: "Moby",
+          name: "Tick Tock",
+          artist: "Joji",
           cover: "https://raw.githubusercontent.com/akshzyx/mini-player/master/img/nectar-joji.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/3.mp3",
-          url: "https://www.youtube.com/watch?v=ICjyAe9S54c",
+          source: "https://raw.githubusercontent.com/akshzyx/playerzyx/master/mp3/Tick Tock.mp3",
+          url: "https://www.youtube.com/watch?v=2FCo7OxVoeY",
           favorited: false
         },
         {
