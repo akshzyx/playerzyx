@@ -52,7 +52,7 @@ new Vue({
         {
           name: "Gimme Love",
           artist: "Joji",
-          cover: "https://raw.githubusercontent.com/akshzyx/playerzyx/master/img/Gimme Love.jpg",
+          cover: "https://raw.githubusercontent.com/akshzyx/playerzyx/master/img/nectar-joji.jpg",
           source: "https://raw.githubusercontent.com/akshzyx/playerzyx/master/mp3/Gimme Love.mp3",
           url: "https://www.youtube.com/watch?v=jPan651rVMs",
           favorited: false
