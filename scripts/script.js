@@ -28,7 +28,7 @@ new Vue({
         {
           name: "Tick Tock",
           artist: "Joji",
-          cover: "https://raw.githubusercontent.com/akshzyx/mini-player/master/img/nectar-joji.jpg",
+          cover: "https://raw.githubusercontent.com/akshzyx/playerzyx/master/img/nectar-joji.jpg",
           source: "https://raw.githubusercontent.com/akshzyx/playerzyx/master/mp3/Tick Tock.mp3",
           url: "https://www.youtube.com/watch?v=2FCo7OxVoeY",
           favorited: false
