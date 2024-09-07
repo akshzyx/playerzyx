@@ -24,7 +24,8 @@ new Vue({
           source: "https://raw.githubusercontent.com/akshzyx/playerzyx/main/mp3/LikeYouDo.flac",
           url: "https://www.youtube.com/watch?v=2Uxq-kIAMBM",
           favorited: true
-        },{
+        },
+        {
           name: "MODUS",
           artist: "Joji",
           cover: "https://raw.githubusercontent.com/akshzyx/playerzyx/master/img/nectar-joji.jpg",
