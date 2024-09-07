@@ -18,14 +18,6 @@ new Vue({
           favorited: false
         },
         {
-          name: "FLAC",
-          artist: "Joji",
-          cover: "https://raw.githubusercontent.com/akshzyx/playerzyx/master/img/nectar-joji.jpg",
-          source: "https://raw.githubusercontent.com/akshzyx/playerzyx/main/mp3/LikeYouDo.flac",
-          url: "https://www.youtube.com/watch?v=2Uxq-kIAMBM",
-          favorited: true
-        },
-        {
           name: "MODUS",
           artist: "Joji",
           cover: "https://raw.githubusercontent.com/akshzyx/playerzyx/master/img/nectar-joji.jpg",
