@@ -13,7 +13,7 @@ new Vue({
           name: "Ew",
           artist: "Joji",
           cover: "https://raw.githubusercontent.com/akshzyx/playerzyx/master/img/nectar-joji.jpg",
-          source: "https://raw.githubusercontent.com/akshzyx/playerzyx/master/mp3/Ew.mp3",
+          source: "https://github.com/akshzyx/playerzyx/raw/main/mp3/Ew.mp3",
           url: "https://www.youtube.com/watch?v=UGB_Bsm5Unk",
           favorited: false
         },
