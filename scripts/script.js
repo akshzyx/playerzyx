@@ -69,7 +69,7 @@ new Vue({
           name: "Sanctuary",
           artist: "Joji",
           cover: "https://raw.githubusercontent.com/akshzyx/playerzyx/master/img/nectar-joji.jpg",
-          source: "https://github.com/akshzyx/playerzyx/raw/main/mp3/Sanctuary.mp3",
+          source: "https://raw.githubusercontent.com/akshzyx/playerzyx/master/mp3/Sanctuary.mp3",
           url: "https://www.youtube.com/watch?v=YWN81V7ojOE",
           favorited: true
         },
