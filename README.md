@@ -15,7 +15,3 @@ Nectar is the second studio album by Japanese singer-songwriter Joji, released o
 ‎
 
 Full **Nectar** album available at - [playerzyx : Nectar](https://akshzyx.github.io/playerzyx/) 
-
-‎
-
-Thanks to **[muhammed](https://github.com/muhammed)**
